@@ -14,6 +14,9 @@ int Max(int *tableau, int taille) {
         }       
     }
     return max;
+
+
+    
 }
     
 
